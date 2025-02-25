@@ -1,0 +1,39 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "But It Works"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+dateFormat = "2 January 2006"
+
+# mainSections = ["section1", "section2"]
+# description = "My awesome website"
+
+[params.author]
+name = "Hugo Sousa"
+image = "img/avatar.jpeg"
+headline = "Hi! I'm Hugo, a nerd specialized in starting things he can't finish."
+bio = "Engineering Manager at Plex. Husband, pet parent, nerd, record collector, caramel enthusiast."
+links = [
+  { email = "mailto:hugo@butitworks.com" },
+  # { facebook = "https://facebook.com/username" },
+  { github = "https://github.com/hsousa" },
+  # { gitlab = "https://gitlab.com/username" },
+  { instagram = "https://instagram.com/hsousa" },
+  # { keybase = "https://keybase.io/username" },
+  # { lastfm = "https://lastfm.com/user/username" },
+  { linkedin = "https://linkedin.com/in/hugocampossousa" },
+  { mastodon = "https://mastodon.social/@hsousa" },
+  { reddit = "https://reddit.com/user/hugocampossousa" },
+  # { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+  { steam = "https://steamcommunity.com/id/hsousa" },
+  # { threads = "https://threads.net/@username" },
+  # { x-twitter = "https://twitter.com/username" },
+  # { youtube = "https://youtube.com/username" },
+  { vinyl = "https://discogs.com/user/hsousa" },
+  { plex = "https://watch.plex.tv/u/hsousa" },
+  { books = "https://app.thestorygraph.com/profile/hsousa" },
+]
