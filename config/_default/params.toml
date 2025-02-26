@@ -71,17 +71,9 @@ excludedKinds = ["taxonomy", "term"]
 [taxonomy]
 showTermCount = true
 
-[fathomAnalytics]
-# site = "ABC12345"
-
-[plausibleAnalytics]
-# domain = "blog.yoursite.com"
-# event = ""
-# script = ""
-
-#[umamiAnalytics]
-#  site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-#  region = "eu"  # can be either "eu" or "us"
+[umamiAnalytics]
+site = "81d919f8-9627-4ebb-8b5a-6a4d337c9fb0"
+region = "eu"
 
 [verification]
 # google = ""
