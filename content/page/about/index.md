@@ -1,11 +1,15 @@
 +++
 date = '2025-02-24T21:11:40Z'
 showDate = false
-draft = false
+draft = true
 title = 'About Me'
 showWordCount = false
 showReadingTime = false
 +++
+
+## Hi there! 👋
+
+My name is Hugo and I live in [Seixal](https://en.wikipedia.org/wiki/Seixal), just south of Lisbon, Portugal.
 
 Hi! I'm Hugo, a nerd specialized in starting things he can't finish.
 

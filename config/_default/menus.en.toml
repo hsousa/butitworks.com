@@ -16,9 +16,9 @@
 # weight = 10
 
 [[main]]
-name = "About"
-pageRef = "about"
-weight = 20
+# name = "About"
+# pageRef = "about"
+# weight = 20
 
 # [[main]]
 #   name = "Categories"
